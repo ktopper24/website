@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ktopper24/website.git"
+  },
+  "author": "Kayla Topper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktopper24/website/issues"
+  },
+  "homepage": "https://github.com/ktopper24/website",
+  "devDependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
